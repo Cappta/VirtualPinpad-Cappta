@@ -1,7 +1,7 @@
 # Virtual PinPad - Cappta
 
 <p align="center">
-   <img src="https://github.com/Cappta/PinPad-Virtual/tree/master/imgs/logo-cappta.png"/>
+  <img height="129" width="324" src="https://raw.githubusercontent.com/Cappta/PinPad-Virtual/master/imgs/logo-cappta.png?token=AXf_iyS--vol01oUbFNktm9rcWFdS7m3ks5a9bvQwA%3D%3D">
 </p>
 
 //Descrição Legal
@@ -15,25 +15,25 @@ Para configurar o Virtual Pinpad – Cappta, é preciso seguir os seguintes pass
 * Após instalar, abra o VSPE e clique em “Create new device”;
 
 <p align="center">
-   <img src="https://github.com/Cappta/PinPad-Virtual/tree/master/imgs/new-comport.JPG"/>
+   <img src="https://github.com/Cappta/PinPad-Virtual/blob/master/imgs/new-comport.JPG?raw=true"/>
 </p>
 
 * Clique em avançar;
 
 <p align="center">
-   <img src="https://github.com/Cappta/PinPad-Virtual/tree/master/imgs/select-comtype.JPG"/>
+   <img src="https://github.com/Cappta/PinPad-Virtual/blob/master/imgs/select-comtype.JPG?raw=true"/>
 </p>
 
 * Escolha uma porta COM para a criação da porta virtual. Dê preferência para um número alto para evitar conflitos com uma possível porta COM real criada anteriormente. Em seguida clique em concluir. 
 
 <p align="center">
-   <img src="https://github.com/Cappta/PinPad-Virtual/tree/master/imgs/select-comportnumber.jpg"/>
+   <img src="https://github.com/Cappta/PinPad-Virtual/blob/master/imgs/select-comportnumber.jpg?raw=true"/>
 </p>
 
 * Feito isso, verifique se sua porta COM se encontra neste estado:
 
 <p align="center">
-   <img src="https://github.com/Cappta/PinPad-Virtual/tree/master/imgs/verify-comport.jpg"/>
+   <img src="https://github.com/Cappta/PinPad-Virtual/blob/master/imgs/verify-comport.jpg?raw=true"/>
 </p>
 
 * Agora, edite o arquivo “VirtualPinpad.exe.config” que se encontra na pasta “VirtualPinpad – Cappta”. Para isso, clique com o lado direito do mouse sobre o arquivo e clique em “Editar” ou clique em “Abrir com > Bloco de notas”;
